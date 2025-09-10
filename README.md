@@ -2,6 +2,9 @@
 
 A **Java Swing application** that simulates a Linux-like terminal environment with a virtual file system, command execution, and styled terminal output.
 
+![Kali Terminal UI](First_Screen.png)
+*Figure 1: Kali Terminal UI*
+
 ---
 
 ### 📋 Features
@@ -56,6 +59,12 @@ git clone https://github.com/YaseenKannemeyer/Linux-Terminal-Java.git
 
 
 3. Try system utilities like man ls, grep pattern file.txt, or date.
+
+![Kali Terminal UI](After_Type.png)
+*Figure 2: Testing Kali Terminal UI*
+
+![Kali Terminal UI](Flag_Found.png)
+*Figure 3: Finding the hidden flag*
 
 ---
 
